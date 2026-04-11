@@ -1,0 +1,37 @@
+# Env and Secrets
+.env
+*.env
+config.local.py
+
+# Database
+*.db
+*.sqlite3
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+env/
+*.egg-info/
+
+# Banner and media (private)
+banner.jpg
+*.jpg
+*.png
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# System
+.DS_Store
+*.log
+
+# Temporary
+*.tmp
+*.bak
